@@ -7,7 +7,7 @@ As part of DevOps in Depth Course structure, we are building Cento7 in Virutal M
 
 - Easy to Setup Virtual Machine Faster
 - Building and Managing Development environment Easily- 
-- Easy to destroy Virtaul Machine as development is completed
+- Easy to destroy Virtaul Machine once development is completed
 
 ## Plugins
 
