@@ -16,8 +16,8 @@ In order to use this Vagrantfile, You need to install [Landrush](https://github.
 Install pre-requistie dependencie Packages.
 
 ```sh
-vagrant install landrush
-vagrant install hostmanager
+vagrant plugin install landrush
+vagrant plugin install hostmanager
 ```
 
 Create a Directory:
